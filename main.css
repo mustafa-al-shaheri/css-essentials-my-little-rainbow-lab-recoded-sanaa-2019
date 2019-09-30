@@ -14,7 +14,7 @@ div {
 
 }
 #Orange {
-  border-top-color: #ffa500;
+  border-top-color: #ffa500;  
 }
 #Yellow {
   border-top-color: #ff0;
@@ -24,10 +24,10 @@ div {
 }
 #Blue {
   border-top-color: #06f;
-}/*
+}
 #Indigo {
   border-top-color: #8a2be2;
-}
+}/*
 #Violot {
   border-top-color: #d300c9;
 }
